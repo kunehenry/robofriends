@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learning React
+          {/* To see the change in the app, changed from Learn React */}
         </a>
       </header>
     </div>
